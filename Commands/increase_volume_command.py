@@ -1,4 +1,4 @@
-from Contracts.Icommand import Icommand
+from contracts.icommand import Icommand
 
 
 class IncreaseVolumeCommand(Icommand):
